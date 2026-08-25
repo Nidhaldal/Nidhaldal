@@ -2,15 +2,6 @@
 
 ### Software Engineer · Backend · Full-Stack · AI · DevOps
 
-<p align="left">
-  <a href="https://github.com/Nidhaldal">
-    <img src="https://img.shields.io/github/followers/Nidhaldal?label=Followers&style=flat" />
-  </a>
-  <a href="https://github.com/Nidhaldal">
-    <img src="https://img.shields.io/github/stars/Nidhaldal?label=GitHub%20Stars&style=flat" />
-  </a>
-</p>
-
 I'm a **Software Engineer** who enjoys building systems from the backend up — designing APIs, working with databases, building full-stack applications, integrating AI capabilities, and automating development workflows.
 
 My interests sit at the intersection of **software engineering, systems, AI, and DevOps**.
