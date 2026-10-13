@@ -1,8 +1,8 @@
 # Hi, I'm Nidhal 👋
 
-### Software Engineer · Backend · Full-Stack · AI · DevOps
+### Full-Stack Software Engineer | Angular · React · Django
 
-I'm a **Software Engineer** who enjoys building systems from the backend up — designing APIs, working with databases, building full-stack applications, integrating AI capabilities, and automating development workflows.
+I'm a junior software engineer who enjoys building practical web applications, from responsive frontends to backend APIs and database design.
 
 My interests sit at the intersection of **software engineering, systems, AI, and DevOps**.
 
@@ -13,8 +13,8 @@ I like understanding how the pieces fit together rather than treating them as is
 ## ⚡ What I Build
 
 ```text
+Full-Stack Apps       →  Angular · React . TypeScript · Python · Java
 Backend Systems       →  REST APIs · Spring Boot · Django · SQL
-Full-Stack Apps       →  Angular · TypeScript · Python · Java
 AI-powered Systems    →  Computer Vision · YOLO · ML Integration
 Real-Time Systems     →  WebSockets · Redis · Live Communication
 DevOps & Automation   →  Linux · Docker · Jenkins · CI/CD
